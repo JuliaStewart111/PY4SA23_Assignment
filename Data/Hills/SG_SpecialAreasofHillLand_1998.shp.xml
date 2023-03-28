@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd"> -->
+<metadata><Esri><CreaDate>20131204</CreaDate><CreaTime>13061600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><scaleRange><minScale>500000</minScale><maxScale>50000</maxScale></scaleRange><DataProperties><itemProps><itemName Sync="TRUE">SG_SpecialAreasofHillLand_1998</itemName><imsContentType Sync="TRUE">002</imsContentType><nativeExtBox><westBL Sync="TRUE">204496.625100</westBL><eastBL Sync="TRUE">389544.656000</eastBL><southBL Sync="TRUE">552945.312800</southBL><northBL Sync="TRUE">969279.999700</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemLocation><linkage Sync="TRUE">file://\\sh101eda\SEGIS\GISAT_Casework\Projects\job5505kt\ZippedShapefiles\SG_SpecialAreasofHillLand_1998.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemSize Sync="TRUE">0.000</itemSize></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_OSGB_1936</geogcsn><csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits><projcsn Sync="TRUE">British_National_Grid</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;British_National_Grid&amp;quot;,GEOGCS[&amp;quot;GCS_OSGB_1936&amp;quot;,DATUM[&amp;quot;D_OSGB_1936&amp;quot;,SPHEROID[&amp;quot;Airy_1830&amp;quot;,6377563.396,299.3249646]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,400000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,-100000.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-2.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996012717],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,49.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,27700]]&lt;/WKT&gt;&lt;XOrigin&gt;-5220400&lt;/XOrigin&gt;&lt;YOrigin&gt;-15524400&lt;/YOrigin&gt;&lt;XYScale&gt;450481592.76709664&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;27700&lt;/WKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef><lineage><Process ToolSource="c:\program files\arcgis\desktop10.0\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20131204" Time="131723">FeatureClassToFeatureClass X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998 X:\GISAT_Casework\Projects\job5505kt\ZippedShapefiles SG_SpecialAreasofHillLand_1998.shp # "AREA "AREA" true true false 8 Double 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,AREA,-1,-1;PERIMETER "PERIMETER" true true false 8 Double 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,PERIMETER,-1,-1;SAHL_ "SAHL_" true true false 4 Long 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,SAHL_,-1,-1;SAHL_ID "SAHL_ID" true true false 4 Long 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,SAHL_ID,-1,-1;CODE "CODE" true true false 2 Short 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,CODE,-1,-1;SYMBOL "SYMBOL" true true false 2 Short 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,SYMBOL,-1,-1;PLOT "PLOT" true true false 2 Short 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,PLOT,-1,-1;SHAPE_Leng "SHAPE_Length" false true true 8 Double 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,SHAPE_Length,-1,-1;SHAPE_Area "SHAPE_Area" false true true 8 Double 0 0 ,First,#,X:\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb\InspireData\A2_LC_SG_SpecialAreasofHillLand_1998,SHAPE_Area,-1,-1" #</Process></lineage></DataProperties><SyncDate>20131204</SyncDate><SyncTime>13172100</SyncTime><ModDate>20131204</ModDate><ModTime>13172100</ModTime></Esri><mdFileID>bd311c01-f795-40b8-a67a-cb8210bc727b</mdFileID><mdLang><languageCode value="eng"/><countryCode value="GBR" Sync="TRUE"></countryCode></mdLang><mdChar><CharSetCd value="004"/></mdChar><mdContact><rpOrgName>Scottish Government</rpOrgName><rpPosName>Geographic Information Science and Analysis Team (GI-SAT), Digital Public Services, DG Enterprise, Environment and Digital</rpPosName><rpCntInfo><cntAddress><delPoint>Victoria Quay</delPoint><city>Edinburgh</city><adminArea>Scotland</adminArea><postCode>EH6 6QQ</postCode><country>GB</country><eMailAdd>GI-SAT@scotland.gsi.gov.uk</eMailAdd></cntAddress></rpCntInfo></mdContact><mdDateSt/><mdStanName>ArcGIS Metadata</mdStanName><mdStanVer>1.0</mdStanVer><refSysInfo><RefSystem><refSysID><identCode code="OSGB 1936 / British National Grid (EPSG:27700)"/><idCodeSpace>EPSG</idCodeSpace><idVersion>7.4</idVersion></refSysID></RefSystem></refSysInfo><dataIdInfo><idCitation><resTitle>Special Areas of Hill Land</resTitle><resAltTitle>SAHL</resAltTitle><date><createDate>1998-01-01T00:00:00</createDate></date><presForm><PresFormCd value="005" Sync="TRUE"></PresFormCd></presForm></idCitation><idAbs>This dataset was created as part of a piece of casework. The areas the boundaries show relate to specially identified areas for hill farming.</idAbs><idPoC><rpIndName/><rpOrgName>Scottish Government</rpOrgName><rpPosName>Spatial Data Management Team (SDMT), Information Management, Agriculture, Food and Rural Communities, DG Enterprise, Environment and Digital</rpPosName><rpCntInfo><cntAddress><delPoint>Saughton House, Broomhouse Drive</delPoint><city>Edinburgh</city><adminArea>Scotland</adminArea><postCode>EH11 3XD</postCode><country>GB</country><eMailAdd>SDMT@scotland.gsi.gov.uk</eMailAdd></cntAddress></rpCntInfo></idPoC><idPoC><rpOrgName>Scottish Government</rpOrgName><rpPosName>Geographic Information Science and Analysis Team (GI-SAT), Digital Public Services, DG Enterprise, Environment and Digital</rpPosName><rpCntInfo><cntAddress><delPoint>Victoria Quay</delPoint><city>Edinburgh</city><adminArea>Scotland</adminArea><postCode>EH6 6QQ</postCode><country>GB</country><eMailAdd>GI-SAT@scotland.gsi.gov.uk</eMailAdd></cntAddress></rpCntInfo></idPoC><resMaint/><themeKeys><keyword>Land cover</keyword><thesaName><resTitle>GEMET - INSPIRE themes, version 1.0</resTitle><date><pubDate>2008-06-01T00:00:00</pubDate></date></thesaName></themeKeys><searchKeys><keyword>Land cover</keyword></searchKeys><resConst><LegConsts><othConsts>no restrictions.</othConsts></LegConsts></resConst><resConst><Consts><useLimit>Dataset was digitised at 1:250K. Data is indicative only.</useLimit></Consts></resConst><dataScale><equScale><rfDenom>250000</rfDenom></equScale></dataScale><dataLang><languageCode value="eng"/><countryCode value="GBR" Sync="TRUE"></countryCode></dataLang><tpCat><TopicCatCd value="001"/></tpCat><dataExt><geoEle><GeoBndBox><westBL>-7.75714</westBL><eastBL>-0.53202</eastBL><southBL>54.53297</southBL><northBL>61.46459</northBL></GeoBndBox></geoEle><geoEle><GeoDesc><geoId><identAuth><resTitle>ISO 3166-2</resTitle><date><reviseDate>2007-12-13T00:00:00</reviseDate></date></identAuth><identCode>SCT</identCode></geoId></GeoDesc></geoEle><tempEle><TempExtent><exTemp/></TempExtent></tempEle></dataExt><suppInfo/><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.5.4400</envirDesc><spatRpType><SpatRepTypCd value="001" Sync="TRUE"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-5.362072</westBL><eastBL Sync="TRUE">-2.162939</eastBL><northBL Sync="TRUE">58.611700</northBL><southBL Sync="TRUE">54.833016</southBL></GeoBndBox></geoEle></dataExt></dataIdInfo><distInfo><distFormat><formatName>ESRI Arc/View Shapefile</formatName><formatVer>10.0</formatVer></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><dqInfo><dqScope/><dataLineage><statement>Dataset was digitised at 1:250K. Data is indicative only.</statement></dataLineage></dqInfo><Binary><Enclosure><Descript>original metadata</Descript><Data SourceMetadata="yes" OriginalFileName="source_metadata.xml" SourceMetadataDigest="df981fd03a865404d9e2c62e897587" EsriPropertyType="Base64" SourceMetadataSchema="iso19139" SourceMetadataDocId="bd311c01-f795-40b8-a67a-cb8210bc727b">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxnbWQ6TURfTWV0YWRhdGEg
+eHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3Lmlzb3RjMjExLm9yZy8yMDA1L2dteCBodHRw
+Oi8vZWRlbi5pZ24uZnIveHNkL2lzb3RjMjExL2lzb2Z1bGwvMjAwOTAzMTYvZ214L2dteC54c2Qi
+IHhtbG5zOmdtZD0iaHR0cDovL3d3dy5pc290YzIxMS5vcmcvMjAwNS9nbWQiIHhtbG5zOmdzcj0i
+aHR0cDovL3d3dy5pc290YzIxMS5vcmcvMjAwNS9nc3IiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3
+LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpnc3M9Imh0dHA6Ly93d3cuaXNvdGMyMTEub3JnLzIw
+MDUvZ3NzIiB4bWxuczpndHM9Imh0dHA6Ly93d3cuaXNvdGMyMTEub3JnLzIwMDUvZ3RzIiB4bWxu
+czpnbWw9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvZ21sLzMuMiIgeG1sbnM6Z214PSJodHRwOi8v
+d3d3Lmlzb3RjMjExLm9yZy8yMDA1L2dteCIgeG1sbnM6Z2NvPSJodHRwOi8vd3d3Lmlzb3RjMjEx
+Lm9yZy8yMDA1L2djbyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVt
+YS1pbnN0YW5jZSIgeG1sbnM6Z2VvbmV0PSJodHRwOi8vd3d3LmZhby5vcmcvZ2VvbmV0d29yayI+
+DQogIDxnbWQ6ZmlsZUlkZW50aWZpZXIgeG1sbnM6c3J2PSJodHRwOi8vd3d3Lmlzb3RjMjExLm9y
+Zy8yMDA1L3NydiIgeG1sbnM6Z21sPSJodHRwOi8vd3d3Lm9wZW5naXMubmV0L2dtbCI+DQogICAg
+PGdjbzpDaGFyYWN0ZXJTdHJpbmc+YmQzMTFjMDEtZjc5NS00MGI4LWE2N2EtY2I4MjEwYmM3Mjdi
+PC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICA8L2dtZDpmaWxlSWRlbnRpZmllcj4NCiAgPGdtZDps
+YW5ndWFnZT4NCiAgICA8Z21kOkxhbmd1YWdlQ29kZSBjb2RlTGlzdD0iaHR0cDovL3d3dy5sb2Mu
+Z292L3N0YW5kYXJkcy9pc282MzktMi9waHAvY29kZV9saXN0LnBocCIgY29kZUxpc3RWYWx1ZT0i
+ZW5nIj5lbmc8L2dtZDpMYW5ndWFnZUNvZGU+DQogIDwvZ21kOmxhbmd1YWdlPg0KICA8Z21kOmhp
+ZXJhcmNoeUxldmVsPg0KICAgIDxnbWQ6TURfU2NvcGVDb2RlIGNvZGVMaXN0PSJodHRwOi8vc3Rh
+bmRhcmRzLmlzby5vcmcvaXR0Zi9QdWJsaWNseUF2YWlsYWJsZVN0YW5kYXJkcy9JU09fMTkxMzlf
+U2NoZW1hcy9yZXNvdXJjZXMvQ29kZWxpc3QvZ214Q29kZWxpc3RzLnhtbCNNRF9TY29wZUNvZGUi
+IGNvZGVMaXN0VmFsdWU9ImRhdGFzZXQiPmRhdGFzZXQ8L2dtZDpNRF9TY29wZUNvZGU+DQogIDwv
+Z21kOmhpZXJhcmNoeUxldmVsPg0KICA8Z21kOmNvbnRhY3Q+DQogICAgPGdtZDpDSV9SZXNwb25z
+aWJsZVBhcnR5Pg0KICAgICAgPGdtZDpvcmdhbmlzYXRpb25OYW1lPg0KICAgICAgICA8Z2NvOkNo
+YXJhY3RlclN0cmluZz5TY290dGlzaCBHb3Zlcm5tZW50PC9nY286Q2hhcmFjdGVyU3RyaW5nPg0K
+ICAgICAgPC9nbWQ6b3JnYW5pc2F0aW9uTmFtZT4NCiAgICAgIDxnbWQ6cG9zaXRpb25OYW1lPg0K
+ICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5HZW9ncmFwaGljIEluZm9ybWF0aW9uIFNjaWVu
+Y2UgYW5kIEFuYWx5c2lzIFRlYW0gKEdJLVNBVCksIERpZ2l0YWwgUHVibGljIFNlcnZpY2VzLCBE
+RyBFbnRlcnByaXNlLCBFbnZpcm9ubWVudCBhbmQgRGlnaXRhbDwvZ2NvOkNoYXJhY3RlclN0cmlu
+Zz4NCiAgICAgIDwvZ21kOnBvc2l0aW9uTmFtZT4NCiAgICAgIDxnbWQ6Y29udGFjdEluZm8+DQog
+ICAgICAgIDxnbWQ6Q0lfQ29udGFjdD4NCiAgICAgICAgICA8Z21kOmFkZHJlc3M+DQogICAgICAg
+ICAgICA8Z21kOkNJX0FkZHJlc3M+DQogICAgICAgICAgICAgIDxnbWQ6ZGVsaXZlcnlQb2ludD4N
+CiAgICAgICAgICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5WaWN0b3JpYSBRdWF5PC9nY286
+Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgICAgICA8L2dtZDpkZWxpdmVyeVBvaW50Pg0KICAg
+ICAgICAgICAgICA8Z21kOmNpdHk+DQogICAgICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJp
+bmc+RWRpbmJ1cmdoPC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgICAgICA8L2dtZDpj
+aXR5Pg0KICAgICAgICAgICAgICA8Z21kOmFkbWluaXN0cmF0aXZlQXJlYT4NCiAgICAgICAgICAg
+ICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5TY290bGFuZDwvZ2NvOkNoYXJhY3RlclN0cmluZz4N
+CiAgICAgICAgICAgICAgPC9nbWQ6YWRtaW5pc3RyYXRpdmVBcmVhPg0KICAgICAgICAgICAgICA8
+Z21kOnBvc3RhbENvZGU+DQogICAgICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJpbmc+RUg2
+IDZRUTwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICAgICAgPC9nbWQ6cG9zdGFsQ29k
+ZT4NCiAgICAgICAgICAgICAgPGdtZDpjb3VudHJ5Pg0KICAgICAgICAgICAgICAgIDxnY286Q2hh
+cmFjdGVyU3RyaW5nPlVuaXRlZCBLaW5nZG9tPC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAg
+ICAgICAgICA8L2dtZDpjb3VudHJ5Pg0KICAgICAgICAgICAgICA8Z21kOmVsZWN0cm9uaWNNYWls
+QWRkcmVzcz4NCiAgICAgICAgICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5HSS1TQVRAc2Nv
+dGxhbmQuZ3NpLmdvdi51azwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICAgICAgPC9n
+bWQ6ZWxlY3Ryb25pY01haWxBZGRyZXNzPg0KICAgICAgICAgICAgPC9nbWQ6Q0lfQWRkcmVzcz4N
+CiAgICAgICAgICA8L2dtZDphZGRyZXNzPg0KICAgICAgICA8L2dtZDpDSV9Db250YWN0Pg0KICAg
+ICAgPC9nbWQ6Y29udGFjdEluZm8+DQogICAgICA8Z21kOnJvbGU+DQogICAgICAgIDxnbWQ6Q0lf
+Um9sZUNvZGUgY29kZUxpc3Q9Imh0dHA6Ly9zdGFuZGFyZHMuaXNvLm9yZy9pdHRmL1B1YmxpY2x5
+QXZhaWxhYmxlU3RhbmRhcmRzL0lTT18xOTEzOV9TY2hlbWFzL3Jlc291cmNlcy9Db2RlbGlzdC9n
+bXhDb2RlbGlzdHMueG1sI0NJX1JvbGVDb2RlIiBjb2RlTGlzdFZhbHVlPSJwb2ludE9mQ29udGFj
+dCI+cG9pbnRPZkNvbnRhY3Q8L2dtZDpDSV9Sb2xlQ29kZT4NCiAgICAgIDwvZ21kOnJvbGU+DQog
+ICAgPC9nbWQ6Q0lfUmVzcG9uc2libGVQYXJ0eT4NCiAgPC9nbWQ6Y29udGFjdD4NCiAgPGdtZDpk
+YXRlU3RhbXA+DQogICAgPGdjbzpEYXRlVGltZSB4bWxuczpzcnY9Imh0dHA6Ly93d3cuaXNvdGMy
+MTEub3JnLzIwMDUvc3J2IiB4bWxuczpnbWw9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvZ21sIj4y
+MDEzLTExLTE5VDE1OjE4OjIwPC9nY286RGF0ZVRpbWU+DQogIDwvZ21kOmRhdGVTdGFtcD4NCiAg
+PGdtZDpyZWZlcmVuY2VTeXN0ZW1JbmZvPg0KICAgIDxnbWQ6TURfUmVmZXJlbmNlU3lzdGVtPg0K
+ICAgICAgPGdtZDpyZWZlcmVuY2VTeXN0ZW1JZGVudGlmaWVyPg0KICAgICAgICA8Z21kOlJTX0lk
+ZW50aWZpZXI+DQogICAgICAgICAgPGdtZDpjb2RlPg0KICAgICAgICAgICAgPGdjbzpDaGFyYWN0
+ZXJTdHJpbmc+T1NHQiAxOTM2IC8gQnJpdGlzaCBOYXRpb25hbCBHcmlkIChFUFNHOjI3NzAwKTwv
+Z2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICA8L2dtZDpjb2RlPg0KICAgICAgICAgIDxn
+bWQ6Y29kZVNwYWNlPg0KICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJpbmc+RVBTRzwvZ2Nv
+OkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICA8L2dtZDpjb2RlU3BhY2U+DQogICAgICAgICAg
+PGdtZDp2ZXJzaW9uPg0KICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJpbmc+Ny40PC9nY286
+Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgIDwvZ21kOnZlcnNpb24+DQogICAgICAgIDwvZ21k
+OlJTX0lkZW50aWZpZXI+DQogICAgICA8L2dtZDpyZWZlcmVuY2VTeXN0ZW1JZGVudGlmaWVyPg0K
+ICAgIDwvZ21kOk1EX1JlZmVyZW5jZVN5c3RlbT4NCiAgPC9nbWQ6cmVmZXJlbmNlU3lzdGVtSW5m
+bz4NCiAgPGdtZDppZGVudGlmaWNhdGlvbkluZm8+DQogICAgPGdtZDpNRF9EYXRhSWRlbnRpZmlj
+YXRpb24+DQogICAgICA8Z21kOmNpdGF0aW9uPg0KICAgICAgICA8Z21kOkNJX0NpdGF0aW9uPg0K
+ICAgICAgICAgIDxnbWQ6dGl0bGU+DQogICAgICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5T
+cGVjaWFsIEFyZWFzIG9mIEhpbGwgTGFuZDwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAg
+ICA8L2dtZDp0aXRsZT4NCiAgICAgICAgICA8Z21kOmFsdGVybmF0ZVRpdGxlPg0KICAgICAgICAg
+ICAgPGdjbzpDaGFyYWN0ZXJTdHJpbmc+U0FITDwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAg
+ICAgICA8L2dtZDphbHRlcm5hdGVUaXRsZT4NCiAgICAgICAgICA8Z21kOmRhdGU+DQogICAgICAg
+ICAgICA8Z21kOkNJX0RhdGU+DQogICAgICAgICAgICAgIDxnbWQ6ZGF0ZT4NCiAgICAgICAgICAg
+ICAgICA8Z2NvOkRhdGU+MTk5OC0wMS0wMTwvZ2NvOkRhdGU+DQogICAgICAgICAgICAgIDwvZ21k
+OmRhdGU+DQogICAgICAgICAgICAgIDxnbWQ6ZGF0ZVR5cGU+DQogICAgICAgICAgICAgICAgPGdt
+ZDpDSV9EYXRlVHlwZUNvZGUgY29kZUxpc3Q9Imh0dHA6Ly9zdGFuZGFyZHMuaXNvLm9yZy9pdHRm
+L1B1YmxpY2x5QXZhaWxhYmxlU3RhbmRhcmRzL0lTT18xOTEzOV9TY2hlbWFzL3Jlc291cmNlcy9D
+b2RlbGlzdC9nbXhDb2RlbGlzdHMueG1sI0NJX0RhdGVUeXBlQ29kZSIgY29kZUxpc3RWYWx1ZT0i
+Y3JlYXRpb24iPmNyZWF0aW9uPC9nbWQ6Q0lfRGF0ZVR5cGVDb2RlPg0KICAgICAgICAgICAgICA8
+L2dtZDpkYXRlVHlwZT4NCiAgICAgICAgICAgIDwvZ21kOkNJX0RhdGU+DQogICAgICAgICAgPC9n
+bWQ6ZGF0ZT4NCiAgICAgICAgICA8Z21kOmlkZW50aWZpZXI+DQogICAgICAgICAgICA8Z21kOlJT
+X0lkZW50aWZpZXI+DQogICAgICAgICAgICAgIDxnbWQ6Y29kZT4NCiAgICAgICAgICAgICAgICA8
+Z2NvOkNoYXJhY3RlclN0cmluZz5TRE1FX1NQRUNJQUxfQVJFQVNfSElMTF9MQU5EPC9nY286Q2hh
+cmFjdGVyU3RyaW5nPg0KICAgICAgICAgICAgICA8L2dtZDpjb2RlPg0KICAgICAgICAgICAgICA8
+Z21kOmNvZGVTcGFjZT4NCiAgICAgICAgICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz53d3cu
+c2NvdGxhbmQuZ292LnVrPC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgICAgICA8L2dt
+ZDpjb2RlU3BhY2U+DQogICAgICAgICAgICA8L2dtZDpSU19JZGVudGlmaWVyPg0KICAgICAgICAg
+IDwvZ21kOmlkZW50aWZpZXI+DQogICAgICAgIDwvZ21kOkNJX0NpdGF0aW9uPg0KICAgICAgPC9n
+bWQ6Y2l0YXRpb24+DQogICAgICA8Z21kOmFic3RyYWN0Pg0KICAgICAgICA8Z2NvOkNoYXJhY3Rl
+clN0cmluZz5UaGlzIGRhdGFzZXQgd2FzIGNyZWF0ZWQgYXMgcGFydCBvZiBhIHBpZWNlIG9mIGNh
+c2V3b3JrLiBUaGUgYXJlYXMgdGhlIGJvdW5kYXJpZXMgc2hvdyByZWxhdGUgdG8gc3BlY2lhbGx5
+IGlkZW50aWZpZWQgYXJlYXMgZm9yIGhpbGwgZmFybWluZy48L2djbzpDaGFyYWN0ZXJTdHJpbmc+
+DQogICAgICA8L2dtZDphYnN0cmFjdD4NCiAgICAgIDxnbWQ6cG9pbnRPZkNvbnRhY3Q+DQogICAg
+ICAgIDxnbWQ6Q0lfUmVzcG9uc2libGVQYXJ0eT4NCiAgICAgICAgICA8Z21kOm9yZ2FuaXNhdGlv
+bk5hbWU+DQogICAgICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5TY290dGlzaCBHb3Zlcm5t
+ZW50PC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgIDwvZ21kOm9yZ2FuaXNhdGlvbk5h
+bWU+DQogICAgICAgICAgPGdtZDpwb3NpdGlvbk5hbWU+DQogICAgICAgICAgICA8Z2NvOkNoYXJh
+Y3RlclN0cmluZz5HZW9ncmFwaGljIEluZm9ybWF0aW9uIFNjaWVuY2UgYW5kIEFuYWx5c2lzIFRl
+YW0gKEdJLVNBVCksIERpZ2l0YWwgUHVibGljIFNlcnZpY2VzLCBERyBFbnRlcnByaXNlLCBFbnZp
+cm9ubWVudCBhbmQgRGlnaXRhbDwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICA8L2dt
+ZDpwb3NpdGlvbk5hbWU+DQogICAgICAgICAgPGdtZDpjb250YWN0SW5mbz4NCiAgICAgICAgICAg
+IDxnbWQ6Q0lfQ29udGFjdD4NCiAgICAgICAgICAgICAgPGdtZDphZGRyZXNzPg0KICAgICAgICAg
+ICAgICAgIDxnbWQ6Q0lfQWRkcmVzcz4NCiAgICAgICAgICAgICAgICAgIDxnbWQ6ZGVsaXZlcnlQ
+b2ludD4NCiAgICAgICAgICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJpbmc+VmljdG9yaWEg
+UXVheTwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICAgICAgICAgIDwvZ21kOmRlbGl2
+ZXJ5UG9pbnQ+DQogICAgICAgICAgICAgICAgICA8Z21kOmNpdHk+DQogICAgICAgICAgICAgICAg
+ICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPkVkaW5idXJnaDwvZ2NvOkNoYXJhY3RlclN0cmluZz4N
+CiAgICAgICAgICAgICAgICAgIDwvZ21kOmNpdHk+DQogICAgICAgICAgICAgICAgICA8Z21kOmFk
+bWluaXN0cmF0aXZlQXJlYT4NCiAgICAgICAgICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJp
+bmc+U2NvdGxhbmQ8L2djbzpDaGFyYWN0ZXJTdHJpbmc+DQogICAgICAgICAgICAgICAgICA8L2dt
+ZDphZG1pbmlzdHJhdGl2ZUFyZWE+DQogICAgICAgICAgICAgICAgICA8Z21kOnBvc3RhbENvZGU+
+DQogICAgICAgICAgICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPkVINiA2UVE8L2djbzpD
+aGFyYWN0ZXJTdHJpbmc+DQogICAgICAgICAgICAgICAgICA8L2dtZDpwb3N0YWxDb2RlPg0KICAg
+ICAgICAgICAgICAgICAgPGdtZDpjb3VudHJ5Pg0KICAgICAgICAgICAgICAgICAgICA8Z2NvOkNo
+YXJhY3RlclN0cmluZz5Vbml0ZWQgS2luZ2RvbTwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAg
+ICAgICAgICAgICAgIDwvZ21kOmNvdW50cnk+DQogICAgICAgICAgICAgICAgICA8Z21kOmVsZWN0
+cm9uaWNNYWlsQWRkcmVzcz4NCiAgICAgICAgICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJp
+bmc+R0ktU0FUQHNjb3RsYW5kLmdzaS5nb3YudWs8L2djbzpDaGFyYWN0ZXJTdHJpbmc+DQogICAg
+ICAgICAgICAgICAgICA8L2dtZDplbGVjdHJvbmljTWFpbEFkZHJlc3M+DQogICAgICAgICAgICAg
+ICAgPC9nbWQ6Q0lfQWRkcmVzcz4NCiAgICAgICAgICAgICAgPC9nbWQ6YWRkcmVzcz4NCiAgICAg
+ICAgICAgIDwvZ21kOkNJX0NvbnRhY3Q+DQogICAgICAgICAgPC9nbWQ6Y29udGFjdEluZm8+DQog
+ICAgICAgICAgPGdtZDpyb2xlPg0KICAgICAgICAgICAgPGdtZDpDSV9Sb2xlQ29kZSBjb2RlTGlz
+dD0iaHR0cDovL3N0YW5kYXJkcy5pc28ub3JnL2l0dGYvUHVibGljbHlBdmFpbGFibGVTdGFuZGFy
+ZHMvSVNPXzE5MTM5X1NjaGVtYXMvcmVzb3VyY2VzL0NvZGVsaXN0L2dteENvZGVsaXN0cy54bWwj
+Q0lfUm9sZUNvZGUiIGNvZGVMaXN0VmFsdWU9InB1Ymxpc2hlciI+cHVibGlzaGVyPC9nbWQ6Q0lf
+Um9sZUNvZGU+DQogICAgICAgICAgPC9nbWQ6cm9sZT4NCiAgICAgICAgPC9nbWQ6Q0lfUmVzcG9u
+c2libGVQYXJ0eT4NCiAgICAgIDwvZ21kOnBvaW50T2ZDb250YWN0Pg0KICAgICAgPGdtZDpwb2lu
+dE9mQ29udGFjdD4NCiAgICAgICAgPGdtZDpDSV9SZXNwb25zaWJsZVBhcnR5Pg0KICAgICAgICAg
+IDxnbWQ6aW5kaXZpZHVhbE5hbWUgZ2NvOm5pbFJlYXNvbj0ibWlzc2luZyI+DQogICAgICAgICAg
+ICA8Z2NvOkNoYXJhY3RlclN0cmluZyAvPg0KICAgICAgICAgIDwvZ21kOmluZGl2aWR1YWxOYW1l
+Pg0KICAgICAgICAgIDxnbWQ6b3JnYW5pc2F0aW9uTmFtZT4NCiAgICAgICAgICAgIDxnY286Q2hh
+cmFjdGVyU3RyaW5nPlNjb3R0aXNoIEdvdmVybm1lbnQ8L2djbzpDaGFyYWN0ZXJTdHJpbmc+DQog
+ICAgICAgICAgPC9nbWQ6b3JnYW5pc2F0aW9uTmFtZT4NCiAgICAgICAgICA8Z21kOnBvc2l0aW9u
+TmFtZT4NCiAgICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPlNwYXRpYWwgRGF0YSBNYW5h
+Z2VtZW50IFRlYW0gKFNETVQpLCBJbmZvcm1hdGlvbiBNYW5hZ2VtZW50LCBBZ3JpY3VsdHVyZSwg
+Rm9vZCBhbmQgUnVyYWwgQ29tbXVuaXRpZXMsIERHIEVudGVycHJpc2UsIEVudmlyb25tZW50IGFu
+ZCBEaWdpdGFsPC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgIDwvZ21kOnBvc2l0aW9u
+TmFtZT4NCiAgICAgICAgICA8Z21kOmNvbnRhY3RJbmZvPg0KICAgICAgICAgICAgPGdtZDpDSV9D
+b250YWN0Pg0KICAgICAgICAgICAgICA8Z21kOmFkZHJlc3M+DQogICAgICAgICAgICAgICAgPGdt
+ZDpDSV9BZGRyZXNzPg0KICAgICAgICAgICAgICAgICAgPGdtZDpkZWxpdmVyeVBvaW50Pg0KICAg
+ICAgICAgICAgICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5TYXVnaHRvbiBIb3VzZSwgQnJv
+b21ob3VzZSBEcml2ZTwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICAgICAgICAgIDwv
+Z21kOmRlbGl2ZXJ5UG9pbnQ+DQogICAgICAgICAgICAgICAgICA8Z21kOmNpdHk+DQogICAgICAg
+ICAgICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPkVkaW5idXJnaDwvZ2NvOkNoYXJhY3Rl
+clN0cmluZz4NCiAgICAgICAgICAgICAgICAgIDwvZ21kOmNpdHk+DQogICAgICAgICAgICAgICAg
+ICA8Z21kOmFkbWluaXN0cmF0aXZlQXJlYT4NCiAgICAgICAgICAgICAgICAgICAgPGdjbzpDaGFy
+YWN0ZXJTdHJpbmc+U2NvdGxhbmQ8L2djbzpDaGFyYWN0ZXJTdHJpbmc+DQogICAgICAgICAgICAg
+ICAgICA8L2dtZDphZG1pbmlzdHJhdGl2ZUFyZWE+DQogICAgICAgICAgICAgICAgICA8Z21kOnBv
+c3RhbENvZGU+DQogICAgICAgICAgICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPkVIMTEg
+M1hEPC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgICAgICAgICAgPC9nbWQ6cG9zdGFs
+Q29kZT4NCiAgICAgICAgICAgICAgICAgIDxnbWQ6Y291bnRyeT4NCiAgICAgICAgICAgICAgICAg
+ICAgPGdjbzpDaGFyYWN0ZXJTdHJpbmc+VW5pdGVkIEtpbmdkb208L2djbzpDaGFyYWN0ZXJTdHJp
+bmc+DQogICAgICAgICAgICAgICAgICA8L2dtZDpjb3VudHJ5Pg0KICAgICAgICAgICAgICAgICAg
+PGdtZDplbGVjdHJvbmljTWFpbEFkZHJlc3M+DQogICAgICAgICAgICAgICAgICAgIDxnY286Q2hh
+cmFjdGVyU3RyaW5nPlNETVRAc2NvdGxhbmQuZ3NpLmdvdi51azwvZ2NvOkNoYXJhY3RlclN0cmlu
+Zz4NCiAgICAgICAgICAgICAgICAgIDwvZ21kOmVsZWN0cm9uaWNNYWlsQWRkcmVzcz4NCiAgICAg
+ICAgICAgICAgICA8L2dtZDpDSV9BZGRyZXNzPg0KICAgICAgICAgICAgICA8L2dtZDphZGRyZXNz
+Pg0KICAgICAgICAgICAgPC9nbWQ6Q0lfQ29udGFjdD4NCiAgICAgICAgICA8L2dtZDpjb250YWN0
+SW5mbz4NCiAgICAgICAgICA8Z21kOnJvbGU+DQogICAgICAgICAgICA8Z21kOkNJX1JvbGVDb2Rl
+IGNvZGVMaXN0PSJodHRwOi8vc3RhbmRhcmRzLmlzby5vcmcvaXR0Zi9QdWJsaWNseUF2YWlsYWJs
+ZVN0YW5kYXJkcy9JU09fMTkxMzlfU2NoZW1hcy9yZXNvdXJjZXMvQ29kZWxpc3QvZ214Q29kZWxp
+c3RzLnhtbCNDSV9Sb2xlQ29kZSIgY29kZUxpc3RWYWx1ZT0iZGlzdHJpYnV0b3IiPmRpc3RyaWJ1
+dG9yPC9nbWQ6Q0lfUm9sZUNvZGU+DQogICAgICAgICAgPC9nbWQ6cm9sZT4NCiAgICAgICAgPC9n
+bWQ6Q0lfUmVzcG9uc2libGVQYXJ0eT4NCiAgICAgIDwvZ21kOnBvaW50T2ZDb250YWN0Pg0KICAg
+ICAgPGdtZDpyZXNvdXJjZU1haW50ZW5hbmNlPg0KICAgICAgICA8Z21kOk1EX01haW50ZW5hbmNl
+SW5mb3JtYXRpb24+DQogICAgICAgICAgPGdtZDptYWludGVuYW5jZUFuZFVwZGF0ZUZyZXF1ZW5j
+eT4NCiAgICAgICAgICAgIDxnbWQ6TURfTWFpbnRlbmFuY2VGcmVxdWVuY3lDb2RlIGNvZGVMaXN0
+PSJodHRwOi8vc3RhbmRhcmRzLmlzby5vcmcvaXR0Zi9QdWJsaWNseUF2YWlsYWJsZVN0YW5kYXJk
+cy9JU09fMTkxMzlfU2NoZW1hcy9yZXNvdXJjZXMvQ29kZWxpc3QvZ214Q29kZWxpc3RzLnhtbCNN
+RF9NYWludGVuYW5jZUZyZXF1ZW5jeUNvZGUiIGNvZGVMaXN0VmFsdWU9InVua25vd24iPnVua25v
+d248L2dtZDpNRF9NYWludGVuYW5jZUZyZXF1ZW5jeUNvZGU+DQogICAgICAgICAgPC9nbWQ6bWFp
+bnRlbmFuY2VBbmRVcGRhdGVGcmVxdWVuY3k+DQogICAgICAgIDwvZ21kOk1EX01haW50ZW5hbmNl
+SW5mb3JtYXRpb24+DQogICAgICA8L2dtZDpyZXNvdXJjZU1haW50ZW5hbmNlPg0KICAgICAgPGdt
+ZDpkZXNjcmlwdGl2ZUtleXdvcmRzPg0KICAgICAgICA8Z21kOk1EX0tleXdvcmRzPg0KICAgICAg
+ICAgIDxnbWQ6a2V5d29yZD4NCiAgICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPkxhbmQg
+Y292ZXI8L2djbzpDaGFyYWN0ZXJTdHJpbmc+DQogICAgICAgICAgPC9nbWQ6a2V5d29yZD4NCiAg
+ICAgICAgICA8Z21kOnR5cGU+DQogICAgICAgICAgICA8Z21kOk1EX0tleXdvcmRUeXBlQ29kZSBj
+b2RlTGlzdD0iaHR0cDovL3d3dy5pc290YzIxMS5vcmcvMjAwNS9yZXNvdXJjZXMvY29kZUxpc3Qu
+eG1sI01EX0tleXdvcmRUeXBlQ29kZSIgY29kZUxpc3RWYWx1ZT0idGhlbWUiIC8+DQogICAgICAg
+ICAgPC9nbWQ6dHlwZT4NCiAgICAgICAgICA8Z21kOnRoZXNhdXJ1c05hbWU+DQogICAgICAgICAg
+ICA8Z21kOkNJX0NpdGF0aW9uPg0KICAgICAgICAgICAgICA8Z21kOnRpdGxlPg0KICAgICAgICAg
+ICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPkdFTUVUIC0gSU5TUElSRSB0aGVtZXMsIHZlcnNp
+b24gMS4wPC9nY286Q2hhcmFjdGVyU3RyaW5nPg0KICAgICAgICAgICAgICA8L2dtZDp0aXRsZT4N
+CiAgICAgICAgICAgICAgPGdtZDpkYXRlPg0KICAgICAgICAgICAgICAgIDxnbWQ6Q0lfRGF0ZT4N
+CiAgICAgICAgICAgICAgICAgIDxnbWQ6ZGF0ZT4NCiAgICAgICAgICAgICAgICAgICAgPGdjbzpE
+YXRlPjIwMDgtMDYtMDE8L2djbzpEYXRlPg0KICAgICAgICAgICAgICAgICAgPC9nbWQ6ZGF0ZT4N
+CiAgICAgICAgICAgICAgICAgIDxnbWQ6ZGF0ZVR5cGU+DQogICAgICAgICAgICAgICAgICAgIDxn
+bWQ6Q0lfRGF0ZVR5cGVDb2RlIGNvZGVMaXN0PSJodHRwOi8vc3RhbmRhcmRzLmlzby5vcmcvaXR0
+Zi9QdWJsaWNseUF2YWlsYWJsZVN0YW5kYXJkcy9JU09fMTkxMzlfU2NoZW1hcy9yZXNvdXJjZXMv
+Q29kZWxpc3QvZ214Q29kZWxpc3RzLnhtbCNDSV9EYXRlVHlwZUNvZGUiIGNvZGVMaXN0VmFsdWU9
+InB1YmxpY2F0aW9uIj5wdWJsaWNhdGlvbjwvZ21kOkNJX0RhdGVUeXBlQ29kZT4NCiAgICAgICAg
+ICAgICAgICAgIDwvZ21kOmRhdGVUeXBlPg0KICAgICAgICAgICAgICAgIDwvZ21kOkNJX0RhdGU+
+DQogICAgICAgICAgICAgIDwvZ21kOmRhdGU+DQogICAgICAgICAgICA8L2dtZDpDSV9DaXRhdGlv
+bj4NCiAgICAgICAgICA8L2dtZDp0aGVzYXVydXNOYW1lPg0KICAgICAgICA8L2dtZDpNRF9LZXl3
+b3Jkcz4NCiAgICAgIDwvZ21kOmRlc2NyaXB0aXZlS2V5d29yZHM+DQogICAgICA8Z21kOnJlc291
+cmNlQ29uc3RyYWludHM+DQogICAgICAgIDxnbWQ6TURfTGVnYWxDb25zdHJhaW50cz4NCiAgICAg
+ICAgICA8Z21kOmFjY2Vzc0NvbnN0cmFpbnRzPg0KICAgICAgICAgICAgPGdtZDpNRF9SZXN0cmlj
+dGlvbkNvZGUgY29kZUxpc3Q9Imh0dHA6Ly9zdGFuZGFyZHMuaXNvLm9yZy9pdHRmL1B1YmxpY2x5
+QXZhaWxhYmxlU3RhbmRhcmRzL0lTT18xOTEzOV9TY2hlbWFzL3Jlc291cmNlcy9Db2RlbGlzdC9n
+bXhDb2RlbGlzdHMueG1sI01EX1Jlc3RyaWN0aW9uQ29kZSIgY29kZUxpc3RWYWx1ZT0ib3RoZXJS
+ZXN0cmljdGlvbnMiPm90aGVyUmVzdHJpY3Rpb25zPC9nbWQ6TURfUmVzdHJpY3Rpb25Db2RlPg0K
+ICAgICAgICAgIDwvZ21kOmFjY2Vzc0NvbnN0cmFpbnRzPg0KICAgICAgICAgIDxnbWQ6b3RoZXJD
+b25zdHJhaW50cz4NCiAgICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPm5vIHJlc3RyaWN0
+aW9ucy48L2djbzpDaGFyYWN0ZXJTdHJpbmc+DQogICAgICAgICAgPC9nbWQ6b3RoZXJDb25zdHJh
+aW50cz4NCiAgICAgICAgPC9nbWQ6TURfTGVnYWxDb25zdHJhaW50cz4NCiAgICAgIDwvZ21kOnJl
+c291cmNlQ29uc3RyYWludHM+DQogICAgICA8Z21kOnJlc291cmNlQ29uc3RyYWludHM+DQogICAg
+ICAgIDxnbWQ6TURfQ29uc3RyYWludHM+DQogICAgICAgICAgPGdtZDp1c2VMaW1pdGF0aW9uPg0K
+ICAgICAgICAgICAgPGdjbzpDaGFyYWN0ZXJTdHJpbmc+RGF0YXNldCB3YXMgZGlnaXRpc2VkIGF0
+IDE6MjUwSy4gRGF0YSBpcyBpbmRpY2F0aXZlIG9ubHkuPC9nY286Q2hhcmFjdGVyU3RyaW5nPg0K
+ICAgICAgICAgIDwvZ21kOnVzZUxpbWl0YXRpb24+DQogICAgICAgIDwvZ21kOk1EX0NvbnN0cmFp
+bnRzPg0KICAgICAgPC9nbWQ6cmVzb3VyY2VDb25zdHJhaW50cz4NCiAgICAgIDxnbWQ6c3BhdGlh
+bFJlc29sdXRpb24+DQogICAgICAgIDxnbWQ6TURfUmVzb2x1dGlvbj4NCiAgICAgICAgICA8Z21k
+OmVxdWl2YWxlbnRTY2FsZT4NCiAgICAgICAgICAgIDxnbWQ6TURfUmVwcmVzZW50YXRpdmVGcmFj
+dGlvbj4NCiAgICAgICAgICAgICAgPGdtZDpkZW5vbWluYXRvcj4NCiAgICAgICAgICAgICAgICA8
+Z2NvOkludGVnZXI+MjUwMDAwPC9nY286SW50ZWdlcj4NCiAgICAgICAgICAgICAgPC9nbWQ6ZGVu
+b21pbmF0b3I+DQogICAgICAgICAgICA8L2dtZDpNRF9SZXByZXNlbnRhdGl2ZUZyYWN0aW9uPg0K
+ICAgICAgICAgIDwvZ21kOmVxdWl2YWxlbnRTY2FsZT4NCiAgICAgICAgPC9nbWQ6TURfUmVzb2x1
+dGlvbj4NCiAgICAgIDwvZ21kOnNwYXRpYWxSZXNvbHV0aW9uPg0KICAgICAgPGdtZDpsYW5ndWFn
+ZT4NCiAgICAgICAgPGdtZDpMYW5ndWFnZUNvZGUgY29kZUxpc3Q9Imh0dHA6Ly93d3cubG9jLmdv
+di9zdGFuZGFyZHMvaXNvNjM5LTIvcGhwL2NvZGVfbGlzdC5waHAiIGNvZGVMaXN0VmFsdWU9ImVu
+ZyI+ZW5nPC9nbWQ6TGFuZ3VhZ2VDb2RlPg0KICAgICAgPC9nbWQ6bGFuZ3VhZ2U+DQogICAgICA8
+Z21kOnRvcGljQ2F0ZWdvcnk+DQogICAgICAgIDxnbWQ6TURfVG9waWNDYXRlZ29yeUNvZGU+ZmFy
+bWluZzwvZ21kOk1EX1RvcGljQ2F0ZWdvcnlDb2RlPg0KICAgICAgPC9nbWQ6dG9waWNDYXRlZ29y
+eT4NCiAgICAgIDxnbWQ6ZXh0ZW50Pg0KICAgICAgICA8Z21kOkVYX0V4dGVudD4NCiAgICAgICAg
+ICA8Z21kOmdlb2dyYXBoaWNFbGVtZW50Pg0KICAgICAgICAgICAgPGdtZDpFWF9HZW9ncmFwaGlj
+Qm91bmRpbmdCb3g+DQogICAgICAgICAgICAgIDxnbWQ6d2VzdEJvdW5kTG9uZ2l0dWRlPg0KICAg
+ICAgICAgICAgICAgIDxnY286RGVjaW1hbD4tNy43NTcxNDwvZ2NvOkRlY2ltYWw+DQogICAgICAg
+ICAgICAgIDwvZ21kOndlc3RCb3VuZExvbmdpdHVkZT4NCiAgICAgICAgICAgICAgPGdtZDplYXN0
+Qm91bmRMb25naXR1ZGU+DQogICAgICAgICAgICAgICAgPGdjbzpEZWNpbWFsPi0wLjUzMjAyPC9n
+Y286RGVjaW1hbD4NCiAgICAgICAgICAgICAgPC9nbWQ6ZWFzdEJvdW5kTG9uZ2l0dWRlPg0KICAg
+ICAgICAgICAgICA8Z21kOnNvdXRoQm91bmRMYXRpdHVkZT4NCiAgICAgICAgICAgICAgICA8Z2Nv
+OkRlY2ltYWw+NTQuNTMyOTc8L2djbzpEZWNpbWFsPg0KICAgICAgICAgICAgICA8L2dtZDpzb3V0
+aEJvdW5kTGF0aXR1ZGU+DQogICAgICAgICAgICAgIDxnbWQ6bm9ydGhCb3VuZExhdGl0dWRlPg0K
+ICAgICAgICAgICAgICAgIDxnY286RGVjaW1hbD42MS40NjQ1OTwvZ2NvOkRlY2ltYWw+DQogICAg
+ICAgICAgICAgIDwvZ21kOm5vcnRoQm91bmRMYXRpdHVkZT4NCiAgICAgICAgICAgIDwvZ21kOkVY
+X0dlb2dyYXBoaWNCb3VuZGluZ0JveD4NCiAgICAgICAgICA8L2dtZDpnZW9ncmFwaGljRWxlbWVu
+dD4NCiAgICAgICAgICA8Z21kOmdlb2dyYXBoaWNFbGVtZW50Pg0KICAgICAgICAgICAgPGdtZDpF
+WF9HZW9ncmFwaGljRGVzY3JpcHRpb24+DQogICAgICAgICAgICAgIDxnbWQ6Z2VvZ3JhcGhpY0lk
+ZW50aWZpZXI+DQogICAgICAgICAgICAgICAgPGdtZDpNRF9JZGVudGlmaWVyPg0KICAgICAgICAg
+ICAgICAgICAgPGdtZDphdXRob3JpdHk+DQogICAgICAgICAgICAgICAgICAgIDxnbWQ6Q0lfQ2l0
+YXRpb24+DQogICAgICAgICAgICAgICAgICAgICAgPGdtZDp0aXRsZT4NCiAgICAgICAgICAgICAg
+ICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPklTTyAzMTY2LTI8L2djbzpDaGFyYWN0ZXJT
+dHJpbmc+DQogICAgICAgICAgICAgICAgICAgICAgPC9nbWQ6dGl0bGU+DQogICAgICAgICAgICAg
+ICAgICAgICAgPGdtZDpkYXRlPg0KICAgICAgICAgICAgICAgICAgICAgICAgPGdtZDpDSV9EYXRl
+Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICA8Z21kOmRhdGU+DQogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgPGdjbzpEYXRlPjIwMDctMTItMTM8L2djbzpEYXRlPg0KICAgICAgICAgICAg
+ICAgICAgICAgICAgICA8L2dtZDpkYXRlPg0KICAgICAgICAgICAgICAgICAgICAgICAgICA8Z21k
+OmRhdGVUeXBlPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnbWQ6Q0lfRGF0ZVR5cGVD
+b2RlIGNvZGVMaXN0PSJodHRwOi8vc3RhbmRhcmRzLmlzby5vcmcvaXR0Zi9QdWJsaWNseUF2YWls
+YWJsZVN0YW5kYXJkcy9JU09fMTkxMzlfU2NoZW1hcy9yZXNvdXJjZXMvQ29kZWxpc3QvZ214Q29k
+ZWxpc3RzLnhtbCNDSV9EYXRlVHlwZUNvZGUiIGNvZGVMaXN0VmFsdWU9InJldmlzaW9uIj5yZXZp
+c2lvbjwvZ21kOkNJX0RhdGVUeXBlQ29kZT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9n
+bWQ6ZGF0ZVR5cGU+DQogICAgICAgICAgICAgICAgICAgICAgICA8L2dtZDpDSV9EYXRlPg0KICAg
+ICAgICAgICAgICAgICAgICAgIDwvZ21kOmRhdGU+DQogICAgICAgICAgICAgICAgICAgIDwvZ21k
+OkNJX0NpdGF0aW9uPg0KICAgICAgICAgICAgICAgICAgPC9nbWQ6YXV0aG9yaXR5Pg0KICAgICAg
+ICAgICAgICAgICAgPGdtZDpjb2RlPg0KICAgICAgICAgICAgICAgICAgICA8Z2NvOkNoYXJhY3Rl
+clN0cmluZz5TQ1Q8L2djbzpDaGFyYWN0ZXJTdHJpbmc+DQogICAgICAgICAgICAgICAgICA8L2dt
+ZDpjb2RlPg0KICAgICAgICAgICAgICAgIDwvZ21kOk1EX0lkZW50aWZpZXI+DQogICAgICAgICAg
+ICAgIDwvZ21kOmdlb2dyYXBoaWNJZGVudGlmaWVyPg0KICAgICAgICAgICAgPC9nbWQ6RVhfR2Vv
+Z3JhcGhpY0Rlc2NyaXB0aW9uPg0KICAgICAgICAgIDwvZ21kOmdlb2dyYXBoaWNFbGVtZW50Pg0K
+ICAgICAgICAgIDxnbWQ6dGVtcG9yYWxFbGVtZW50Pg0KICAgICAgICAgICAgPGdtZDpFWF9UZW1w
+b3JhbEV4dGVudD4NCiAgICAgICAgICAgICAgPGdtZDpleHRlbnQ+DQogICAgICAgICAgICAgICAg
+PGdtbDpUaW1lUGVyaW9kIGdtbDppZD0iVDEiPg0KICAgICAgICAgICAgICAgICAgPGdtbDpiZWdp
+blBvc2l0aW9uIC8+DQogICAgICAgICAgICAgICAgICA8Z21sOmVuZFBvc2l0aW9uIC8+DQogICAg
+ICAgICAgICAgICAgPC9nbWw6VGltZVBlcmlvZD4NCiAgICAgICAgICAgICAgPC9nbWQ6ZXh0ZW50
+Pg0KICAgICAgICAgICAgPC9nbWQ6RVhfVGVtcG9yYWxFeHRlbnQ+DQogICAgICAgICAgPC9nbWQ6
+dGVtcG9yYWxFbGVtZW50Pg0KICAgICAgICA8L2dtZDpFWF9FeHRlbnQ+DQogICAgICA8L2dtZDpl
+eHRlbnQ+DQogICAgICA8Z21kOnN1cHBsZW1lbnRhbEluZm9ybWF0aW9uIGdjbzpuaWxSZWFzb249
+Im1pc3NpbmciPg0KICAgICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZyAvPg0KICAgICAgPC9nbWQ6
+c3VwcGxlbWVudGFsSW5mb3JtYXRpb24+DQogICAgPC9nbWQ6TURfRGF0YUlkZW50aWZpY2F0aW9u
+Pg0KICA8L2dtZDppZGVudGlmaWNhdGlvbkluZm8+DQogIDxnbWQ6ZGlzdHJpYnV0aW9uSW5mbz4N
+CiAgICA8Z21kOk1EX0Rpc3RyaWJ1dGlvbj4NCiAgICAgIDxnbWQ6ZGlzdHJpYnV0aW9uRm9ybWF0
+Pg0KICAgICAgICA8Z21kOk1EX0Zvcm1hdD4NCiAgICAgICAgICA8Z21kOm5hbWU+DQogICAgICAg
+ICAgICA8Z2NvOkNoYXJhY3RlclN0cmluZz5FU1JJIEFyYy9WaWV3IFNoYXBlZmlsZTwvZ2NvOkNo
+YXJhY3RlclN0cmluZz4NCiAgICAgICAgICA8L2dtZDpuYW1lPg0KICAgICAgICAgIDxnbWQ6dmVy
+c2lvbj4NCiAgICAgICAgICAgIDxnY286Q2hhcmFjdGVyU3RyaW5nPjEwLjA8L2djbzpDaGFyYWN0
+ZXJTdHJpbmc+DQogICAgICAgICAgPC9nbWQ6dmVyc2lvbj4NCiAgICAgICAgPC9nbWQ6TURfRm9y
+bWF0Pg0KICAgICAgPC9nbWQ6ZGlzdHJpYnV0aW9uRm9ybWF0Pg0KICAgICAgPGdtZDp0cmFuc2Zl
+ck9wdGlvbnM+DQogICAgICAgIDxnbWQ6TURfRGlnaXRhbFRyYW5zZmVyT3B0aW9ucyAvPg0KICAg
+ICAgPC9nbWQ6dHJhbnNmZXJPcHRpb25zPg0KICAgIDwvZ21kOk1EX0Rpc3RyaWJ1dGlvbj4NCiAg
+PC9nbWQ6ZGlzdHJpYnV0aW9uSW5mbz4NCiAgPGdtZDpkYXRhUXVhbGl0eUluZm8+DQogICAgPGdt
+ZDpEUV9EYXRhUXVhbGl0eT4NCiAgICAgIDxnbWQ6c2NvcGU+DQogICAgICAgIDxnbWQ6RFFfU2Nv
+cGU+DQogICAgICAgICAgPGdtZDpsZXZlbD4NCiAgICAgICAgICAgIDxnbWQ6TURfU2NvcGVDb2Rl
+IGNvZGVMaXN0PSJodHRwOi8vc3RhbmRhcmRzLmlzby5vcmcvaXR0Zi9QdWJsaWNseUF2YWlsYWJs
+ZVN0YW5kYXJkcy9JU09fMTkxMzlfU2NoZW1hcy9yZXNvdXJjZXMvQ29kZWxpc3QvZ214Q29kZWxp
+c3RzLnhtbCNNRF9TY29wZUNvZGUiIGNvZGVMaXN0VmFsdWU9ImRhdGFzZXQiPmRhdGFzZXQ8L2dt
+ZDpNRF9TY29wZUNvZGU+DQogICAgICAgICAgPC9nbWQ6bGV2ZWw+DQogICAgICAgIDwvZ21kOkRR
+X1Njb3BlPg0KICAgICAgPC9nbWQ6c2NvcGU+DQogICAgICA8Z21kOmxpbmVhZ2U+DQogICAgICAg
+IDxnbWQ6TElfTGluZWFnZT4NCiAgICAgICAgICA8Z21kOnN0YXRlbWVudD4NCiAgICAgICAgICAg
+IDxnY286Q2hhcmFjdGVyU3RyaW5nPkRhdGFzZXQgd2FzIGRpZ2l0aXNlZCBhdCAxOjI1MEsuIERh
+dGEgaXMgaW5kaWNhdGl2ZSBvbmx5LjwvZ2NvOkNoYXJhY3RlclN0cmluZz4NCiAgICAgICAgICA8
+L2dtZDpzdGF0ZW1lbnQ+DQogICAgICAgIDwvZ21kOkxJX0xpbmVhZ2U+DQogICAgICA8L2dtZDps
+aW5lYWdlPg0KICAgIDwvZ21kOkRRX0RhdGFRdWFsaXR5Pg0KICA8L2dtZDpkYXRhUXVhbGl0eUlu
+Zm8+DQo8L2dtZDpNRF9NZXRhZGF0YT4=</Data></Enclosure></Binary><GEMINI_Metadata><IdentificationInfo><spatialRepresentationType codeList="001"></spatialRepresentationType><extent><geographicElement><westBoundLongitude>-5.362072</westBoundLongitude><eastBoundLongitude>-2.162938</eastBoundLongitude><northBoundLatitude>58.611699</northBoundLatitude><southBoundLatitude>54.833015</southBoundLatitude></geographicElement></extent></IdentificationInfo><dateStamp>20131204</dateStamp><metadataStandardName>UK GEMINI Standard</metadataStandardName><metadataStandardVersion>1.0</metadataStandardVersion><referenceSystemInfo><referenceSystemIdentifier><code>001</code></referenceSystemIdentifier></referenceSystemInfo></GEMINI_Metadata><mdHrLv><ScopeCd value="005" Sync="TRUE"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><spatRepInfo><VectSpatRep><geometObjs Name="SG_SpecialAreasofHillLand_1998"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><spdoinfo><ptvctinf><esriterm><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo><eainfo><detailed Name="SG_SpecialAreasofHillLand_1998"><enttyp><enttypl Sync="TRUE">SG_SpecialAreasofHillLand_1998</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">SHAPE</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AREA</attrlabl><attalias Sync="TRUE">AREA</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attalias Sync="TRUE">PERIMETER</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SAHL_</attrlabl><attalias Sync="TRUE">SAHL_</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SAHL_ID</attrlabl><attalias Sync="TRUE">SAHL_ID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CODE</attrlabl><attalias Sync="TRUE">CODE</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">4</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SYMBOL</attrlabl><attalias Sync="TRUE">SYMBOL</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">4</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">PLOT</attrlabl><attalias Sync="TRUE">PLOT</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">4</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">SHAPE_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_Area</attrlabl><attalias Sync="TRUE">SHAPE_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed></eainfo><gmd:GEMINI_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+		<gmd:fileIdentifier>
+			<gco:CharacterString>{e4f4390f-08ae-4f33-9c35-7a550f53247f}</gco:CharacterString>
+		</gmd:fileIdentifier>
+		<gmd:hierarchyLevel>
+			<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">Dataset</gmd:MD_ScopeCode>
+		</gmd:hierarchyLevel>
+		<gmd:dateStamp>
+			<gco:Date>2013-12-04</gco:Date>
+		</gmd:dateStamp>
+		<gmd:language>
+			<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">English [English]</gmd:LanguageCode>
+		</gmd:language>
+		<gmd:identificationInfo>
+			<gmd:MD_DataIdentification>
+				<gmd:language>
+					<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">English [English]</gmd:LanguageCode>
+				</gmd:language>
+				<gmd:abstract>
+					<gco:CharacterString>This dataset was created as part of a piece of casework. The areas the boundaries show relate to specially identified areas for hill farming.</gco:CharacterString>
+				</gmd:abstract>
+				<gmd:spatialResolution>
+					<gmd:MD_Resolution>
+						<gmd:distance>
+							<gco:Distance uom="Meters">0.0001</gco:Distance>
+						</gmd:distance>
+					</gmd:MD_Resolution>
+				</gmd:spatialResolution>
+				<gmd:spatialResolution>
+					<gmd:MD_Resolution>
+						<gmd:equivalentScale>
+							<gmd:MD_RepresentativeFraction>
+								<gmd:denominator>
+									<gco:Integer>250000</gco:Integer>
+								</gmd:denominator>
+							</gmd:MD_RepresentativeFraction>
+						</gmd:equivalentScale>
+					</gmd:MD_Resolution>
+				</gmd:spatialResolution>
+				<gmd:citation>
+					<gmd:CI_Citation>
+						<gmd:title>
+							<gco:CharacterString>Special Areas of Hill Land</gco:CharacterString>
+						</gmd:title>
+						<gmd:alternateTitle>
+							<gco:CharacterString>SAHL</gco:CharacterString>
+						</gmd:alternateTitle>
+						<gmd:date>
+							<gmd:CI_Date>
+								<gmd:date>
+									<gco:Date>1998-01-01</gco:Date>
+								</gmd:date>
+								<gmd:dateType>
+									<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">Creation</gmd:CI_DateTypeCode>
+								</gmd:dateType>
+							</gmd:CI_Date>
+						</gmd:date>
+						<gmd:identifier>
+							<gmd:RS_Identifier>
+								<gmd:code>
+									<gco:CharacterString>SDME_SPECIAL_AREAS_HILL_LAND</gco:CharacterString>
+								</gmd:code>
+								<gmd:codeSpace>
+									<gco:CharacterString>www.scotland.gov.uk</gco:CharacterString>
+								</gmd:codeSpace>
+							</gmd:RS_Identifier>
+						</gmd:identifier>
+					</gmd:CI_Citation>
+				</gmd:citation>
+				<gmd:topicCategory>
+					<gmd:MD_TopicCategoryCode>farming</gmd:MD_TopicCategoryCode>
+				</gmd:topicCategory>
+				<gmd:descriptiveKeywords>
+					<gmd:MD_Keywords>
+						<gmd:keyword>
+							<gco:CharacterString>Land cover</gco:CharacterString>
+						</gmd:keyword>
+						<gmd:thesaurusName>
+							<gmd:CI_Citation>
+								<gmd:title>
+									<gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+								</gmd:title>
+								<gmd:date>
+									<gmd:CI_Date>
+										<gmd:date>
+											<gco:Date>2008-06-01</gco:Date>
+										</gmd:date>
+										<gmd:dateType>
+											<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+										</gmd:dateType>
+									</gmd:CI_Date>
+								</gmd:date>
+							</gmd:CI_Citation>
+						</gmd:thesaurusName>
+						<gmd:type>
+							<gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+						</gmd:type>
+					</gmd:MD_Keywords>
+				</gmd:descriptiveKeywords>
+				<gmd:extent>
+					<gmd:EX_Extent>
+						<gmd:geographicElement>
+							<gmd:EX_GeographicDescription>
+								<gmd:geographicIdentifier>
+									<gmd:RS_Identifier>
+										<gmd:code>
+											<gco:CharacterString>SCT</gco:CharacterString>
+										</gmd:code>
+										<gmd:authority>
+											<gmd:CI_Citation>
+												<gmd:title>
+													<gco:CharacterString>ISO 3166-2</gco:CharacterString>
+												</gmd:title>
+												<gmd:date>
+													<gmd:CI_Date>
+														<gmd:date>
+															<gco:Date>2007-12-13</gco:Date>
+														</gmd:date>
+														<gmd:dateType>
+															<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">Revision</gmd:CI_DateTypeCode>
+														</gmd:dateType>
+													</gmd:CI_Date>
+												</gmd:date>
+											</gmd:CI_Citation>
+										</gmd:authority>
+									</gmd:RS_Identifier>
+								</gmd:geographicIdentifier>
+							</gmd:EX_GeographicDescription>
+						</gmd:geographicElement>
+						<gmd:geographicElement>
+							<gmd:EX_GeographicBoundingBox>
+								<gmd:westBoundLongitude>
+									<gco:Decimal>-7.75714</gco:Decimal>
+								</gmd:westBoundLongitude>
+								<gmd:eastBoundLongitude>
+									<gco:Decimal>-0.53202</gco:Decimal>
+								</gmd:eastBoundLongitude>
+								<gmd:southBoundLatitude>
+									<gco:Decimal>54.53297</gco:Decimal>
+								</gmd:southBoundLatitude>
+								<gmd:northBoundLatitude>
+									<gco:Decimal>61.46459</gco:Decimal>
+								</gmd:northBoundLatitude>
+							</gmd:EX_GeographicBoundingBox>
+						</gmd:geographicElement>
+						<gmd:temporalElement>
+							<gmd:EX_TemporalExtent>
+								<gmd:extent>
+									<gml:TimePeriod>
+										<gml:beginPosition>1998-01-01</gml:beginPosition>
+										<gml:endPosition/>
+									</gml:TimePeriod>
+								</gmd:extent>
+							</gmd:EX_TemporalExtent>
+						</gmd:temporalElement>
+						<gmd:verticalElement>
+							<gmd:EX_VerticalExtent>
+								<gmd:minimumValue>
+									<gco:Real>-100000.00</gco:Real>
+								</gmd:minimumValue>
+								<gmd:maximumValue>
+									<gco:Real>900719825474.10</gco:Real>
+								</gmd:maximumValue>
+								<gmd:verticalCRS xlink:href=""/>
+							</gmd:EX_VerticalExtent>
+						</gmd:verticalElement>
+					</gmd:EX_Extent>
+				</gmd:extent>
+				<gmd:pointOfContact>
+					<gmd:CI_ResponsibleParty>
+						<gmd:organisationName>
+							<gco:CharacterString>Scottish Government</gco:CharacterString>
+						</gmd:organisationName>
+						<gmd:positionName>
+							<gco:CharacterString>Spatial Data Management Team (SDMT), Information Management, Agriculture, Food and Rural Communities, DG Enterprise, Environment and Digital</gco:CharacterString>
+						</gmd:positionName>
+						<gmd:contactInfo>
+							<gmd:CI_Contact>
+								<gmd:address>
+									<gmd:CI_Address>
+										<gmd:deliveryPoint>
+											<gco:CharacterString>Saughton House, Broomhouse Drive</gco:CharacterString>
+										</gmd:deliveryPoint>
+										<gmd:city>
+											<gco:CharacterString>Edinburgh</gco:CharacterString>
+										</gmd:city>
+										<gmd:administrativeArea>
+											<gco:CharacterString>Scotland</gco:CharacterString>
+										</gmd:administrativeArea>
+										<gmd:postalCode>
+											<gco:CharacterString>EH11 3XD</gco:CharacterString>
+										</gmd:postalCode>
+										<gmd:electronicMailAddress>
+											<gco:CharacterString>SDMT@scotland.gsi.gov.uk</gco:CharacterString>
+										</gmd:electronicMailAddress>
+										<gmd:country>
+											<gmd:Country codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#Country" codeListValue="GBR">United Kingdom of Great Britain &amp; N. Ireland</gmd:Country>
+										</gmd:country>
+									</gmd:CI_Address>
+								</gmd:address>
+							</gmd:CI_Contact>
+						</gmd:contactInfo>
+						<gmd:role>
+							<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="distributor">Distributor</gmd:CI_RoleCode>
+						</gmd:role>
+					</gmd:CI_ResponsibleParty>
+				</gmd:pointOfContact>
+				<gmd:pointOfContact>
+					<gmd:CI_ResponsibleParty>
+						<gmd:organisationName>
+							<gco:CharacterString>Scottish Government</gco:CharacterString>
+						</gmd:organisationName>
+						<gmd:positionName>
+							<gco:CharacterString>Geographic Information Science and Analysis Team (GI-SAT), Digital Public Services, DG Enterprise, Environment and Digital</gco:CharacterString>
+						</gmd:positionName>
+						<gmd:contactInfo>
+							<gmd:CI_Contact>
+								<gmd:address>
+									<gmd:CI_Address>
+										<gmd:deliveryPoint>
+											<gco:CharacterString>Victoria Quay</gco:CharacterString>
+										</gmd:deliveryPoint>
+										<gmd:city>
+											<gco:CharacterString>Edinburgh</gco:CharacterString>
+										</gmd:city>
+										<gmd:administrativeArea>
+											<gco:CharacterString>Scotland</gco:CharacterString>
+										</gmd:administrativeArea>
+										<gmd:postalCode>
+											<gco:CharacterString>EH6 6QQ</gco:CharacterString>
+										</gmd:postalCode>
+										<gmd:electronicMailAddress>
+											<gco:CharacterString>GI-SAT@scotland.gsi.gov.uk</gco:CharacterString>
+										</gmd:electronicMailAddress>
+										<gmd:country>
+											<gmd:Country codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#Country" codeListValue="GBR">United Kingdom of Great Britain &amp; N. Ireland</gmd:Country>
+										</gmd:country>
+									</gmd:CI_Address>
+								</gmd:address>
+							</gmd:CI_Contact>
+						</gmd:contactInfo>
+						<gmd:role>
+							<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="publisher">Publisher</gmd:CI_RoleCode>
+						</gmd:role>
+					</gmd:CI_ResponsibleParty>
+				</gmd:pointOfContact>
+				<gmd:resourceConstraints>
+					<gmd:MD_Constraints>
+						<gmd:useLimitation>
+							<gco:CharacterString>Dataset was digitised at 1:250K. Data is indicative only.</gco:CharacterString>
+						</gmd:useLimitation>
+					</gmd:MD_Constraints>
+				</gmd:resourceConstraints>
+				<gmd:resourceConstraints>
+					<gmd:MD_LegalConstraints>
+						<gmd:otherConstraints>
+							<gco:CharacterString>no restrictions.</gco:CharacterString>
+						</gmd:otherConstraints>
+					</gmd:MD_LegalConstraints>
+				</gmd:resourceConstraints>
+				<gmd:resourceMaintenance>
+					<gmd:MD_MaintenanceInformation>
+						<gmd:maintenanceAndUpdateFrequency>
+							<gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown">Unknown</gmd:MD_MaintenanceFrequencyCode>
+						</gmd:maintenanceAndUpdateFrequency>
+					</gmd:MD_MaintenanceInformation>
+				</gmd:resourceMaintenance>
+			</gmd:MD_DataIdentification>
+		</gmd:identificationInfo>
+		<gmd:distributionInfo>
+			<gmd:MD_Distribution>
+				<gmd:transferOptions>
+					<gmd:MD_DigitalTransferOptions>
+						<gmd:onLine>
+							<gmd:CI_OnlineResource>
+								<gmd:linkage>
+									<gmd:URL>\\sh101eda\SEGIS\GISAT_Casework\Projects\job5505kt\SG_InspireData.gdb</gmd:URL>
+								</gmd:linkage>
+							</gmd:CI_OnlineResource>
+						</gmd:onLine>
+					</gmd:MD_DigitalTransferOptions>
+				</gmd:transferOptions>
+				<gmd:distributionFormat>
+					<gmd:MD_Format>
+						<gmd:name>
+							<gco:CharacterString>ESRI Arc/View Shapefile</gco:CharacterString>
+						</gmd:name>
+						<gmd:version>
+							<gco:CharacterString>10.0</gco:CharacterString>
+						</gmd:version>
+					</gmd:MD_Format>
+				</gmd:distributionFormat>
+			</gmd:MD_Distribution>
+		</gmd:distributionInfo>
+		<gmd:dataQualityInfo>
+			<gmd:DQ_DataQuality>
+				<gmd:lineage>
+					<gmd:LI_Lineage>
+						<gmd:statement>
+							<gco:CharacterString>Dataset was digitised at 1:250K. Data is indicative only.</gco:CharacterString>
+						</gmd:statement>
+					</gmd:LI_Lineage>
+				</gmd:lineage>
+			</gmd:DQ_DataQuality>
+		</gmd:dataQualityInfo>
+		<gmd:referenceSystemInfo>
+			<gmd:MD_ReferenceSystem>
+				<gmd:referenceSystemIdentifier>
+					<gmd:RS_Identifier>
+						<gmd:code>
+							<gco:CharacterString>Great Britain National Grid</gco:CharacterString>
+						</gmd:code>
+					</gmd:RS_Identifier>
+				</gmd:referenceSystemIdentifier>
+			</gmd:MD_ReferenceSystem>
+		</gmd:referenceSystemInfo>
+		<gmd:contact>
+			<gmd:CI_ResponsibleParty>
+				<gmd:individualName>
+					<gco:CharacterString></gco:CharacterString>
+				</gmd:individualName>
+				<gmd:organisationName>
+					<gco:CharacterString>Scottish Government</gco:CharacterString>
+				</gmd:organisationName>
+				<gmd:positionName>
+					<gco:CharacterString>Geographic Information Science and Analysis Team (GI-SAT), Digital Public Services, DG Enterprise, Environment and Digital</gco:CharacterString>
+				</gmd:positionName>
+				<gmd:contactInfo>
+					<gmd:CI_Contact>
+						<gmd:address>
+							<gmd:CI_Address>
+								<gmd:deliveryPoint>
+									<gco:CharacterString>Victoria Quay</gco:CharacterString>
+								</gmd:deliveryPoint>
+								<gmd:city>
+									<gco:CharacterString>Edinburgh</gco:CharacterString>
+								</gmd:city>
+								<gmd:administrativeArea>
+									<gco:CharacterString>Scotland</gco:CharacterString>
+								</gmd:administrativeArea>
+								<gmd:postalCode>
+									<gco:CharacterString>EH6 6QQ</gco:CharacterString>
+								</gmd:postalCode>
+								<gmd:electronicMailAddress>
+									<gco:CharacterString>GI-SAT@scotland.gsi.gov.uk</gco:CharacterString>
+								</gmd:electronicMailAddress>
+								<gmd:country>
+									<gmd:Country codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#Country" codeListValue="GBR">United Kingdom of Great Britain &amp; N. Ireland</gmd:Country>
+								</gmd:country>
+							</gmd:CI_Address>
+						</gmd:address>
+						<gmd:phone>
+							<gmd:CI_Telephone>
+								<gmd:voice>
+									<gco:CharacterString></gco:CharacterString>
+								</gmd:voice>
+								<gmd:facsimile>
+									<gco:CharacterString></gco:CharacterString>
+								</gmd:facsimile>
+							</gmd:CI_Telephone>
+						</gmd:phone>
+						<gmd:onLine>
+							<gmd:CI_OnLineResource>
+								<gmd:linkage>
+									<gmd:URL></gmd:URL>
+								</gmd:linkage>
+							</gmd:CI_OnLineResource>
+						</gmd:onLine>
+					</gmd:CI_Contact>
+				</gmd:contactInfo>
+				<gmd:role>
+					<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="pointOfContact">Point of contact</gmd:CI_RoleCode>
+				</gmd:role>
+			</gmd:CI_ResponsibleParty>
+		</gmd:contact>
+	</gmd:GEMINI_Metadata></metadata>
